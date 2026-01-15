@@ -1,6 +1,10 @@
 # T-Test - Modell und Realität
 
+## 🚀 direkter Start mit Binder (das Laden aller Pakete kann etwas dauern)
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/RVeh/statistic_medicine/HEAD)
+
+---
 
 
 Dieses Repository enthält **Python-Programme** zum t-Test und Erklärungen zu diesem und andernen Testverfahren. 
