@@ -3,7 +3,7 @@
 
 
 
-Dieses Repository enthält **Python-Programme** zum t-Test.
+Dieses Repository enthält **Python-Programme** zum t-Test und Erklärungen zu diesem und andernen Testverfahren. 
 
 ### 📁 Ordnerstruktur (Überblick)
 
@@ -11,4 +11,4 @@ Dieses Repository enthält **Python-Programme** zum t-Test.
 |-------|--------|
 | `T-Test.pdf` | T-Test unf mehr - Erklärungen, Rechnungen, u.a. |
 | `Hndout.pdt` | Kurze Zusammenfassung |
-| ` ` | T-Test unf mehr - Erklärungen, Rechnungen, u.a. |
+| ` Hallo` | T-Test unf mehr - Erklärungen, Rechnungen, u.a. |
