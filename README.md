@@ -20,7 +20,7 @@ Dieses Repository enthält **Python-Programme** zum t-Test und Erklärungen zu d
 | `Hndout.pdt` | Kurze Zusammenfassung |
 | `Welch-SPSS.ipynb` | Der Welch-t-Test (zwei unabhängige Gruppen) - mit SPSS-Ausgabe |
 | `t-Verteilungen.ipynb` | t-Verteilung vs. Normalverteilung |
-| `Ein-Stichprobentest.ipynb` | Ein-Stichprobentest (links-rechts und zweiseitg mit zugehörigen Verteilungen|
+| `Ein-Stichprobentest.ipynb` | Ein-Stichprobentest (links-rechts und zweiseitg) mit zugehörigen Verteilungen|
 
 
 
