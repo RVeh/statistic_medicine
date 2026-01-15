@@ -11,4 +11,4 @@ Dieses Repository enthält **Python-Programme** zum t-Test und Erklärungen zu d
 |-------|--------|
 | `T-Test.pdf` | T-Test unf mehr - Erklärungen, Rechnungen, u.a. |
 | `Hndout.pdt` | Kurze Zusammenfassung |
-| ` Hallo` | T-Test unf mehr - Erklärungen, Rechnungen, u.a. |
+| `Welch-SPSS.ipynb` | Der Welch-t-Test (zwei unabhängige Gruppen) - mit SPSS-Ausgabe |
